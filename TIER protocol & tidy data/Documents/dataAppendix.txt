@@ -1,0 +1,4 @@
+W pliku weather_dirty_csv.csv
+TMAX - temperatura maksymalna danego dnia
+TMIN - temperatura minimalna danego dnia
+PRCP-  opady danego dnia

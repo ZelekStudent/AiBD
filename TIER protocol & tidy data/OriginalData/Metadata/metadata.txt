@@ -1,0 +1,24 @@
+oryginalne dane: weather.txt
+
+MX000017004198912TMAX , war1-31
+Ciag znaków zawierajacy: nazwa stacji rok miesiąc wartosc , pomiary z kolejnych dni od 1 od 31 
+
+W przypadku braku wartośći: -9999
+
+
+Kody I, S: 
+
+S = Global Summary of the Day (NCDC DSI-9618)
+ NOTE: "S" values are derived from hourly synoptic reports
+ exchanged on the Global Telecommunications System (GTS).
+ Daily values derived in this fashion may differ significantly
+ from "true" daily data, particularly for precipitation(i.e., use with caution).
+
+I = International collection (non U.S. data received through personal contacts)
+
+
+
+weather_dirty_csv
+zawierajacy kolumny 
+rok miesiąc, wartosc, pomiary z kolejnych dni od 1 od 31
+
